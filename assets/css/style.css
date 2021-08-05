@@ -92,6 +92,7 @@ section{
     position:absolute;
     bottom: 120px;
     right: 140px;
+    border-radius: 15px;
 }
 
 .hero-form h3{

@@ -1,14 +1,20 @@
+<<<<<<< HEAD
 # Run Buddy Inc.
+=======
+# Run Buddy, Inc
+>>>>>>> 2d79c8fe4fb73b6df158fdf29a097de4e3be60c7
 
-##Purpose
-A website that offers fitness training services.
+## Purpose
+A website that offers fitness training services. 
 
-##Built with
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
-##Website
-https://adamromano89.github.io/run-buddy/
+## Website
+https://lernantino.github.io/run-buddy/
 
-##Contraibution
-Made with ❤️ by Adam Romano
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc

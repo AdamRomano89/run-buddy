@@ -15,7 +15,7 @@ header{
     background-color: #39a6b2;
     display: flex;
     justify-content: space-between;
-    flex-wrap:wrap ;
+    flex-wrap: wrap;
 }
 /* styling the header */
 header h1{
@@ -34,15 +34,19 @@ header a{
 header nav{
     margin: 7px 0;
 }
-/* Adding inline to nav items */
-header nav ul li {
-    display: inline;
+/* Adding flexbox to nav items */
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
 }
 /* Styling nav bar items */
 header nav ul li a{
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 22px;
+    font-size: 1.55vw;
 }
 
 footer{

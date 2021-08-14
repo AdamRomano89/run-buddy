@@ -44,7 +44,7 @@ header nav ul {
 }
 /* Styling nav bar items */
 header nav ul li a{
-    margin: 0 30px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 1.55vw;
 }
@@ -84,6 +84,7 @@ section{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 /*////////////Hero Style End/////////////*/
 
@@ -94,7 +95,7 @@ section{
     margin: 3.5%;
     color: #fff;
     font-size: 18px;
-    line-height: 1.3;
+    line-height: 1.2;
 }
 .hero-cta h2{
     font-style: italic;
@@ -112,9 +113,7 @@ section{
     border-radius: 15px;
     width: 40%;
     margin: 3.5%;
-
 }
-
 .hero-form h3{
     font-size: 24px;
     margin: 0%;
@@ -161,7 +160,7 @@ section{
 }
 
 .section-title {
-    font-size: 55px;
+    font-size: 48px;
     color: #024e76;
     border-bottom: 3px solid;
     padding-bottom: 20px;
@@ -335,3 +334,14 @@ background-color: #024e76;
     font-size: 20px;
     color: red;
   }
+  
+@media screen and (max-width:900px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 575px) {
+   
+}

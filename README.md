@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://adamromano89.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by [Adam Romano]
 
 ### ©️2019 Run Buddy, Inc

@@ -10,8 +10,6 @@ Run Buddy: [https://adamromano89.github.io/run-buddy/]
 ### Built With 🧰
 - HTML 
 - CSS
-- Bootstrap
-- JavaScript
 
 # Project Visual :sunglasses:
 ![Project-Picture](assets/mock up/050-mock-up.jpeg)

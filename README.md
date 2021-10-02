@@ -2,7 +2,7 @@
 
 Version 1.0.0
 
-### Live Application Link on GitHub Pages👀
+### Live Application Link on GitHub Pages
 Run Buddy: [See deployment on Github Pages](https://adamromano89.github.io/run-buddy/)
 
 ### Live Application Link 👀
@@ -20,3 +20,4 @@ Run Buddy: [https://adamromano89.github.io/run-buddy/]
 
 ### Teaching Crew at University Of Texas 🎉
 [UT](https://www.utexas.edu/)
+...

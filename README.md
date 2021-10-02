@@ -12,7 +12,7 @@ Run Buddy: [https://adamromano89.github.io/run-buddy/]
 - CSS
 
 # Project Visual :sunglasses:
-![Project-Picture](assets/mock up/050-mock-up.jpeg)
+![Project-Picture](/assets/mock up/050-mock-up.jpeg)
 
 ## Authors, Acknowledgement, & Resources 🤝
 ##### Adam Romano - Full Stack Web Developer

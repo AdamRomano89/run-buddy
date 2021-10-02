@@ -20,4 +20,3 @@ Run Buddy: [https://adamromano89.github.io/run-buddy/]
 
 ### Teaching Crew at University Of Texas 🎉
 [UT](https://www.utexas.edu/)
-...
